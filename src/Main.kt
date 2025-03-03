@@ -1,21 +1,22 @@
 /**
- * Kotlin Collections Task 2 - Monkeys in Cages
+ * Kotlin Collections Task 3 - Monkey Errors
  *
  *       OOOOO  OOO   OOO
  *          O  O   O O   O
  *         O   O   O O   O
  *       OOOOO  OOO   OOO
  * +-------------+-------------+
- * |    __v__    |             |
- * |   ( o o )   |    __v__    |
- * |    (---)    |   ( o o )   |
- * |    __|__    |    (---)    |
- * |   /|. .|\   |      |      |
+ * |    __v__    |     ___     |
+ * |   ( o o )   |    /   |    |
+ * |    (---)    |       _/    |
+ * |    __|__    |      |      |
+ * |   /|. .|\   |      o      |
  * +-------------+-------------+
  *
- * The monkeys have been rounded up and transported
- * to the Zoo. The zookeepers need some help placing
- * the monkeys into cages. Can you help them?
+ * It seems that some of the zookeepers are not very
+ * good at their job, and keep getting the cage numbers
+ * muddled up. Can you add some error checking to the
+ * system to help indicate when things go wrong?
  */
 
 
