@@ -94,15 +94,6 @@ fun main() {
 }
 
 
-/**
- * Creates and returns a Mutable List, size NUMCAGES,
- * populated with strings representing empty cages
- */
-fun setupCages(): MutableList<String> {
-    val cageList = mutableListOf<String>()
-    for (i in 1..NUMCAGES) cageList.add(EMPTY)
-    return cageList
-}
 
 
 
