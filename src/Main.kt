@@ -101,7 +101,21 @@ fun main() {
 
 /**
  * ========================================================
- * REPLACE THIS COMMENT WITH A COPY OF ALL THE FUNCTIONS
+ * ABOVE THIS COMMENT, PLACE A COPY OF ALL THE FUNCTIONS
  * YOU WORKED ON AND GOT WORKING IN TASK 2
+ * ========================================================
+ *
+ * You will be modifying the following functions to add
+ * error-checking:
+ * - placeMonkeyInCage()
+ * - clearCage()
+ * - swapCages()
+ *
+ * If an error is detected, a suitable error message should
+ * be shown such as:
+ * - ERROR PLACING MONKEY: cage number 20 is out of range
+ * - ERROR CLEARING CAGE: cage number 0 is out of range
+ * - Etc.
+ *
  * ========================================================
  */
